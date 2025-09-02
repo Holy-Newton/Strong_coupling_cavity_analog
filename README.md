@@ -5,4 +5,5 @@ demonstrate that in this conditions the proprieties of matter are modify. We dem
 states, the conditions for there creations, and the influence of the di↵erent parameters on the evolution, numerically and with
 an analytical approximation.
 
-By François DEBERDT
+François DEBERDT, physics student in the university of Strasbourg
+L2 voluntary internship
